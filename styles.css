@@ -1,0 +1,21 @@
+.h1{
+    color: chartreuse;
+    text-align: center;
+    font-size: 40px;
+}
+.p{
+    color: blue;
+}
+.button{
+    background-color: yellow;
+    border-radius: 12px;
+    padding: 10px;
+    font-size: 25px;
+}
+.unordered-square-list {
+  list-style-type: square;
+  font-size: 40px;
+}
+.ordered-lower-roman-list {
+  list-style-type: lower-roman;
+}
